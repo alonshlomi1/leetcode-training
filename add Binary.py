@@ -1,1 +1,0 @@
-def addBinary(a, b):
